@@ -27,7 +27,7 @@ This is a musical website, aim to provide you with information about your favori
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/clevermabunda/band.git
+   git clone https://github.com/clevermabunda/bandweb.git
 
 ## Usage
 
